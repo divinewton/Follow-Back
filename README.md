@@ -1,4 +1,4 @@
-# Follow-Back
+# Instagram Follow Back Checker
 A simple Python program to check Instagram follow-backs.
 
 ## Description
